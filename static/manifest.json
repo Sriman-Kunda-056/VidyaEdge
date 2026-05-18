@@ -1,0 +1,15 @@
+{
+  "name": "VidyaEdge",
+  "short_name": "VidyaEdge",
+  "description": "Offline AI Tutor",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f97316",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/gradio_api/file=static/icon-192.png",
+      "sizes": "192x192"
+    }
+  ]
+}
