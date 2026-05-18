@@ -177,4 +177,3 @@ VidyaEdge is built on:
 - **Ollama** (MIT)
 - **Gradio** (Apache 2.0)
 
-Project code: MIT.
